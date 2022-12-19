@@ -11,3 +11,5 @@ When we have a complicated class and we need to test it we create a builder just
 For example, if tomorrow they add a date in the Basket constructor, we can change it in the builder without affecting our tests:
 
 ![Pasted image 20221219131225.png](images/Pasted%20image%2020221219131225.png)
+
+Example: [[BasketBuilder.java]]

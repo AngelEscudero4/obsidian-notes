@@ -7,3 +7,5 @@ For doing that, we can use [Mockito](https://site.mockito.org/). For using that,
 **NOTE**: It is **impossible** to mock a static method -> solution: create an abstraction that use the static method so I can mock the function that calls the static method. We write more code loosing stability but we can create tests.
 
 For solving that, we can use **Ports and Adapters architecture** or **Hexagonal architecture**, separating the main classes and the infrastructure having simple models and with the possibility of easily mocking.
+
+Example of mock objects: [[InvoiceFilterTest.java]]
