@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "7371abeaa0aed0f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "87787cd2c5c1ca85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "522e5bfa0bb20cf0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0955f7d52accccae",
+    "type": "split",
+    "children": [
+      {
+        "id": "b40cbcc391104b62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "557bab2a07609a29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fcd094b672fff951",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TDD",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fe49ce7fef24723",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4030965bab52aa82",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9a463c1e0e6ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a113c1e7dd6534a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88fb624163c86dec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7970f9848ecbf88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57ed267a0d0b5bea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "522e5bfa0bb20cf0",
+  "lastOpenFiles": [
+    "TDD/notes/Best practices.md",
+    "TDD/notes/Baby steps.md",
+    "TDD/notes/Basic idea.md",
+    "notes/Tests annotations.md",
+    "notes/Test Data Builder.md",
+    "notes/Tests names.md",
+    "notes/Mock objects.md",
+    "notes/Best practices.md",
+    "notes/Basic idea.md",
+    "notes/Baby steps.md"
+  ]
+}

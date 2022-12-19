@@ -1,0 +1,20 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "es",
+    "en-US"
+  ],
+  "spellcheck": true,
+  "showLineNumber": false,
+  "useMarkdownLinks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
