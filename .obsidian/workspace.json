@@ -4,60 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1f4f52ad871edf46",
+        "id": "42f3eb77ed28f9d2",
         "type": "tabs",
         "children": [
           {
-            "id": "f6fab3089ba0be9b",
+            "id": "a69bd4295d11c39b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Lambdas/Java Streams.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1110d5e73aa333ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/Double colon operator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8239c24ba86dbc72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROTOCOLS/SOAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "253fc52228804b89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROTOCOLS/REST.md",
+                "file": "Spring Boot/Relationships/Many to Many.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Java",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROTOCOLS/REST.md",
+                "file": "Spring Boot/Relationships/Many to Many.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROTOCOLS/REST.md",
+                "file": "Spring Boot/Relationships/Many to Many.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROTOCOLS/REST.md"
+                "file": "Spring Boot/Relationships/Many to Many.md"
               }
             }
           },
@@ -174,26 +136,46 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "2b6d21066d0a92cf",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
+    "width": 432.5,
     "collapsed": true
   },
-  "active": "253fc52228804b89",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "a69bd4295d11c39b",
   "lastOpenFiles": [
-    "PROTOCOLS/SOAP.md",
-    "JAVA/Double colon operator.md",
-    "JAVA/Lambdas/Java Streams.md",
-    "JAVA/Lambdas/Java 8 improvements.md",
-    "JAVA/Lambdas/Expresion lambda.md",
-    "JAVA/images/Pasted image 20221220132744.png",
-    "JAVA/images/Pasted image 20221220132400.png",
-    "JAVA/Java Data Structures.md",
-    "JAVA/images/Pasted image 20221220120820.png",
-    "JAVA/images/Pasted image 20221220120552.png"
+    "Spring Boot/Relationships/One to Many.md",
+    "Spring Boot/Relationships/Many to Many.md",
+    "Spring Boot/JPA/Repository.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Spring Boot/JPA/Entity.md",
+    "Pasted image 2022122114572022122114572020.png.md",
+    "Spring Boot/images/Pasted image 20221221145720.png",
+    "Spring Boot/images/Pasted image 20221221145748.png",
+    "Databases/Local PostgreSQL.md"
   ]
 }
