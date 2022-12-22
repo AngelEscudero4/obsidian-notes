@@ -1,4 +1,4 @@
-#JAVA #STREAM
+#JAVA
 
 Los Streams permiten procesar datos de forma declarativa (como en SQL)
 

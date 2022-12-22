@@ -1,5 +1,3 @@
-#PROGRAMMING 
-
 - The variables are inmutable (values cannot change during execution)
 - There are no data types
 

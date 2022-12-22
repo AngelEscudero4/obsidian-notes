@@ -8,7 +8,7 @@
     "en-US"
   ],
   "spellcheck": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "useMarkdownLinks": false,
   "pdfExportSettings": {
     "includeName": true,

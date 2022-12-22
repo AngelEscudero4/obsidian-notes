@@ -1,4 +1,4 @@
-#LAMBDA #JAVA  
+#JAVA  
 
 ## ¿Qué es una expresión Lambda? 
 

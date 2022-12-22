@@ -8,6 +8,10 @@ import java.util.Set;
 
 @Entity
 public class Author {
+
+    @OneToOne(cascade=CascadeType.ALL)
+    private House house;
+
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
@@ -17,7 +21,6 @@ public class Author {
 
     @ManyToMany(mappedBy =  "authors")
     private Set<Book> books = new HashSet<>();
-
 
     public Author() {
     }
@@ -63,6 +66,14 @@ public class Author {
 
     public Long getId() {
         return id;
+    }
+
+    public House getHouse() {
+        return house;
+    }
+
+    public void setHouse(House house) {
+        this.house = house;
     }
 
     @Override

@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "42f3eb77ed28f9d2",
+        "id": "2b836a02310c0729",
         "type": "tabs",
         "children": [
           {
-            "id": "a69bd4295d11c39b",
+            "id": "e05bd1867a513d5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/Relationships/Many to Many.md",
+                "file": "Spring Boot/JPA/JPA Cascade Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2b2ed8136591ca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Boot/Hibernate DDL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cdbea792120cc1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Boot/JPA/Spring Data JPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb397bd0b5e66aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Boot/Relationships/Work with bidirectional relationships.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +86,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Boot/Relationships/Many to Many.md",
+                "file": "Spring Boot/Relationships/Work with bidirectional relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Boot/Relationships/Many to Many.md",
+                "file": "Spring Boot/Relationships/Work with bidirectional relationships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Boot/Relationships/Many to Many.md"
+                "file": "Spring Boot/Relationships/Work with bidirectional relationships.md"
               }
             }
           },
@@ -165,17 +202,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a69bd4295d11c39b",
+  "active": "fb397bd0b5e66aa5",
   "lastOpenFiles": [
-    "Spring Boot/Relationships/One to Many.md",
-    "Spring Boot/Relationships/Many to Many.md",
-    "Spring Boot/JPA/Repository.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Spring Boot/JPA/Entity.md",
-    "Pasted image 2022122114572022122114572020.png.md",
-    "Spring Boot/images/Pasted image 20221221145720.png",
-    "Spring Boot/images/Pasted image 20221221145748.png",
-    "Databases/Local PostgreSQL.md"
+    "Spring Boot/JPA/Spring Data JPA.md",
+    "Spring Boot/Hibernate DDL.md",
+    "Spring Boot/JPA/JPA Cascade Types.md",
+    "Spring Boot/MVC/@Service.md",
+    "Spring Boot/Enumerations.md",
+    "Spring Boot/Relationships/@OneToMany.md",
+    "Spring Boot/Relationships/@OneToOne.md",
+    "Spring Boot/External Properties.md",
+    "Spring Boot/Stereotypes.md",
+    "Spring Boot/Bean Annotations/@Qualifier.md"
   ]
 }
